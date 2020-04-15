@@ -1,0 +1,6 @@
+classes= 5
+train  = /DATA/lwang/darknet/train.txt
+valid  = /DATA/lwang/darknet/blue.txt
+names = data/voc.names
+backup = backup
+
